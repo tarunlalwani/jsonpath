@@ -1,3 +1,5 @@
-module github.com/PaesslerAG/jsonpath
+module github.com/tarunlalwani/jsonpath
 
-require github.com/PaesslerAG/gval v1
+go 1.15
+
+require github.com/PaesslerAG/gval v1.1.0
